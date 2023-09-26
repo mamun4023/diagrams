@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T13:48:37.900Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hswT8P7eALQrCTVa5XzM" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T11:49:14.366Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UrJBgdKeolCGqQOJ_yxZ" version="21.8.0" type="github">
   <diagram name="Page-1" id="G8oqICroImFP98PP0jhe">
-    <mxGraphModel dx="1386" dy="2571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="2443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,25 +215,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pxrlkx7MvBpBombPw6jG-21" value="CAD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="-1408" width="43" height="26" as="geometry" />
+          <mxGeometry x="243.5" y="-1411" width="43" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Pxrlkx7MvBpBombPw6jG-22" value="USD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1024.5" y="-1408" width="43" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="lEKl0hvWrcSFVDOUfLaM-1" value="Delay 3 days" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lEKl0hvWrcSFVDOUfLaM-1" value="Delay 3 days" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="873" y="-1313" width="87" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="lEKl0hvWrcSFVDOUfLaM-2" value="Delay 3 days" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3RfVMdVTPta1NlASoyjp-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lEKl0hvWrcSFVDOUfLaM-2" target="3RfVMdVTPta1NlASoyjp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEKl0hvWrcSFVDOUfLaM-2" value="Delay 3 days" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="873" y="-1394" width="87" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="lEKl0hvWrcSFVDOUfLaM-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="858" y="-1280" width="157" height="123" as="geometry" />
+        <mxCell id="lEKl0hvWrcSFVDOUfLaM-5" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="889" y="-1283" width="157" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="lEKl0hvWrcSFVDOUfLaM-3" value="Currency : CAD&amp;nbsp;&lt;br&gt;amount :&amp;nbsp; 135" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lEKl0hvWrcSFVDOUfLaM-5">
+        <mxCell id="lEKl0hvWrcSFVDOUfLaM-3" value="Currency : CAD&amp;nbsp;&lt;br&gt;amount :&amp;nbsp; 135" style="rounded=0;whiteSpace=wrap;html=1;" parent="lEKl0hvWrcSFVDOUfLaM-5" vertex="1">
           <mxGeometry y="24" width="157" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="lEKl0hvWrcSFVDOUfLaM-4" value="Transaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lEKl0hvWrcSFVDOUfLaM-5">
+        <mxCell id="lEKl0hvWrcSFVDOUfLaM-4" value="Transaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="lEKl0hvWrcSFVDOUfLaM-5" vertex="1">
           <mxGeometry width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3RfVMdVTPta1NlASoyjp-1" value="Delay 3 days" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="873" y="-1500" width="87" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3RfVMdVTPta1NlASoyjp-3" value="add amount from service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="851" y="-1435" width="150" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
