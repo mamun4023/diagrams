@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T08:28:54.379Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="3C5hN6i5sCVWt5Yk6Ozh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T08:37:50.089Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aHZN-NVvKmLGxI5WzFmc" version="22.1.11" type="github">
   <diagram name="Page-1" id="8WEzIa7WAyUCvlPe14mw">
-    <mxGraphModel>
+    <mxGraphModel dx="660" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yNef16tUp7e4gL4p5unc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNef16tUp7e4gL4p5unc-1" target="yNef16tUp7e4gL4p5unc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-1" value="Admin User&lt;br&gt;&lt;br&gt;(practitioner&lt;br&gt;or&amp;nbsp;&lt;br&gt;Business)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-2" value="Sign Up Subcription&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="158" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNef16tUp7e4gL4p5unc-3" target="yNef16tUp7e4gL4p5unc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-3" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNef16tUp7e4gL4p5unc-5" target="yNef16tUp7e4gL4p5unc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-5" value="Subscription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="250" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNef16tUp7e4gL4p5unc-7" target="yNef16tUp7e4gL4p5unc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-7" value="Basic&lt;br&gt;or&lt;br&gt;Enterprice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="250" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNef16tUp7e4gL4p5unc-9" target="yNef16tUp7e4gL4p5unc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNef16tUp7e4gL4p5unc-9" target="yNef16tUp7e4gL4p5unc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-9" value="Basic" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="265" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="278" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNef16tUp7e4gL4p5unc-16" value="EnterPrice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
