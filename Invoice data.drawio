@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T13:22:39.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nxeGrxVDv04UjsmbINSa" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T13:24:34.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xzSyNd3ncNiXsoF_ZEq5" version="21.7.5" type="github">
   <diagram name="Page-1" id="k1jYm_hgjMpKrV_UlBw6">
     <mxGraphModel dx="1434" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,10 +32,10 @@
           <mxGeometry x="433" y="268" width="319" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gaKc5PybrjS5Kms9o5AB-14" value="Problem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="193" y="105" width="63" height="26" as="geometry" />
+          <mxGeometry x="85" y="179" width="63" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gaKc5PybrjS5Kms9o5AB-15" value="Frontend Pagination" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="193" y="131" width="126" height="26" as="geometry" />
+          <mxGeometry x="85" y="211" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gaKc5PybrjS5Kms9o5AB-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gaKc5PybrjS5Kms9o5AB-16" target="gaKc5PybrjS5Kms9o5AB-17">
           <mxGeometry relative="1" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="gaKc5PybrjS5Kms9o5AB-20" value="Unpaid&lt;br&gt;paid&lt;br&gt;partical" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="753" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaKc5PybrjS5Kms9o5AB-22" value="Backend paigination&amp;nbsp; (aggregation cost)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="235" width="229" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
